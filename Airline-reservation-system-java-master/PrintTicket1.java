@@ -85,8 +85,8 @@ public class PrintTicket1 extends JFrame
 		Panel2.add(LDemo);
 
 
-		Panel2.add(Yugesh,Verma);
-		Panel2.add(gopi,pal);
+		Panel2.add(YugeshVerma);
+		Panel2.add(gopipal);
 		Panel2.add(neeraj);
 		Panel2.add(sunil);
 
